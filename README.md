@@ -1,6 +1,6 @@
 # Sample Readme
 
-!(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 Sr. # | Type | Change
 --- | --- | ---
